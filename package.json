@@ -1,0 +1,22 @@
+{
+  "name": "react-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LaurenceNairne/react-intro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LaurenceNairne/react-intro/issues"
+  },
+  "homepage": "https://github.com/LaurenceNairne/react-intro#readme",
+  "dependencies": {
+    "webpack": "^4.20.2"
+  }
+}
