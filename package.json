@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/LaurenceNairne/react-intro#readme",
   "dependencies": {
+    "jquery": "^3.3.1",
+    "lodash": "^4.17.11",
     "webpack": "^4.20.2"
   }
 }
